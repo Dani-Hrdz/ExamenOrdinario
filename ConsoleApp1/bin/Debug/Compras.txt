@@ -1,0 +1,10 @@
+
+Producto: pinol
+Cantidad de stok: 3
+Precio: $20.00
+Producto: pinol
+Cantidad de compra: 6
+Precio: $3.00
+Producto: pinol
+Cantidad de compra: 2
+Precio: $34.00
